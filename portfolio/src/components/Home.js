@@ -3,7 +3,7 @@ import '../Styles/Home.css';
 import { motion } from "framer-motion";
 import profileImg from '../Assets/profile1.jpg'; // Replace with your actual image path
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
-import resume from '../Assets/Resume_Pavithra.pdf'
+import resume from '../Assets/Pavithra-resume.pdf'
 
 export const Home = () => {
   return (
