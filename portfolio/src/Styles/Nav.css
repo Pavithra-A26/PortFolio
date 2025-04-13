@@ -1,0 +1,42 @@
+/* Navbar.css */
+.custom-navbar {
+    width: 100%;
+    padding: 2rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fdfdfd;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .custom-logo {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #1e1e2f;
+    margin: 0;
+  }
+  
+  .custom-menu {
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .custom-menu li a {
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: #1e1e2f;
+    transition: color 0.3s ease;
+  }
+  
+  .custom-menu li a:hover {
+    color: #4f46e5; /* or your primary theme color */
+  }
+  
