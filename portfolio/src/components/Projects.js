@@ -4,6 +4,8 @@ import '../Styles/Project.css'
 import bookstore from '../Assets/bookstore.png'
 import notekeeper from '../Assets/notekeepers.png'
 import calc from '../Assets/calcu.png'
+import job from '../Assets/job.png'
+import quiz from '../Assets/quiz.png'
 
 
 export const Projects = () => {
@@ -26,6 +28,18 @@ export const Projects = () => {
       github: "https://github.com/Pavithra-A26/MERN-NoteKeeper",
       demo: "https://guileless-fudge-f4d524.netlify.app/",
     },
+    {
+      title: "Job Portal",
+      image: job,
+      github: "https://github.com/Pavithra-A26/Job_Posting_Application",
+      demo: "https://job-app-admin.netlify.app/",
+    },
+    {
+      title: "Quiz Application",
+      image: quiz,
+      github: "https://github.com/Pavithra-A26/Online-Quiz-Application",
+      demo: "",
+    }
   ];
   
   return (
