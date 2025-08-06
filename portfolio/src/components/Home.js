@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Styles/Home.css';
 import { motion } from "framer-motion";
-import profileImg from '../Assets/profile1.jpg'; // Replace with your actual image path
+import profileImg from '../Assets/pavi (1).jpg'; // Replace with your actual image path
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import resume from '../Assets/Resume-Pavi.pdf'
 

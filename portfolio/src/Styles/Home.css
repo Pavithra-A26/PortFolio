@@ -32,8 +32,8 @@
   }
    */
    .profile-pic img {
-    width: 320px;         /* increased from 250px */
-    height: 320px;
+    width: 350px;         /* increased from 250px */
+    height: 350px;
     border-radius: 50%;
     object-fit: cover;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
